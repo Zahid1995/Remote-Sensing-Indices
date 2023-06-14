@@ -5,4 +5,5 @@ Copy the code to the google earth engine (GEE) to calculate indices full names a
 The code has been set for a single date image, it can be modified to a time series analysis. 
 
 A total of 18 indices are given including BSI, BUI, EVI, MNDWI, MSAVI, NBI, NDBI, NDDI, NDMI, NDSAI, NDSDI, NDSI-2, NDVI, NDWI, NMDI, OSAVI, SAVI, and UI.
-https://code.earthengine.google.com/?accept_repo=users/zahid_jahangir/RS_Indices
+
+Direct access to Google Earth Engine: https://code.earthengine.google.com/?accept_repo=users/zahid_jahangir/RS_Indices
