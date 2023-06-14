@@ -6,4 +6,4 @@ The code has been set for a single date image, it can be modified to a time seri
 
 A total of 18 indices are given including BSI, BUI, EVI, MNDWI, MSAVI, NBI, NDBI, NDDI, NDMI, NDSAI, NDSDI, NDSI-2, NDVI, NDWI, NMDI, OSAVI, SAVI, and UI.
 
-Direct access to Google Earth Engine: https://code.earthengine.google.com/?accept_repo=users/zahid_jahangir/RS_Indices
+Direct access to Google Earth Engine:https://code.earthengine.google.com/3e61eb39a3ad78fd8bf13bb3c307586c
